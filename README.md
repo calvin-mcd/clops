@@ -1,6 +1,6 @@
 # clops
 
-clops is a qazlike unibody split sub40s keyboard. The KLE is by ha ha ha which itself is inspired by a [KLE](http://www.keyboard-layout-editor.com/#/gists/c3c008118662d8631bc35f2af838a2c1) from [Noelle](https://github.com/fivedee). PCB is designed by Calvin0563. It sports a rp2040 and hotswap socket, and supports 1 center rotary encoder and 1 bottom row roller encoder.
+clops is a qazlike unibody split sub40s keyboard. The KLE and firmware is by ha ha ha which itself is inspired by a [KLE](http://www.keyboard-layout-editor.com/#/gists/c3c008118662d8631bc35f2af838a2c1) from [Noelle](https://github.com/fivedee). PCB is designed by Calvin0563. It sports a rp2040 and hotswap socket, and supports 1 center rotary encoder and 1 bottom row roller encoder.
 
 ## Layout
 
@@ -15,9 +15,9 @@ clops is a qazlike unibody split sub40s keyboard. The KLE is by ha ha ha which i
 
 ## Todo
 
-- [ ] order & test pcb
+- [X] order & test pcb
+- [X] create firmware
 - [ ] design case
-- [ ] create firmware
 
 ## Disclaimer
 
