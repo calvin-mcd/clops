@@ -11,8 +11,7 @@
         "console": false,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true,
-        "encoder": true
+        "nkro": true
     },
     "bootmagic": {
         "enabled": true,
@@ -48,7 +47,7 @@
     "encoder": {
         "rotary": [
             { "pin_a": "GP18", "pin_b": "GP20", "resolution": 4 },
-            { "pin_a": "GP9", "pin_b": "GP11", "resolution": 4 }
+            { "pin_a": "GP09", "pin_b": "GP11", "resolution": 4 }
         ]
     },
     "layouts": {
