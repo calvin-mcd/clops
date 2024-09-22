@@ -13,6 +13,10 @@ clops is a qazlike unibody split sub40s keyboard. The KLE and firmware is by ha 
 ![](https://github.com/calvin-mcd/clops/blob/main/Images/top.png)
 ![](https://github.com/calvin-mcd/clops/blob/main/Images/bottom.png)
 
+## Build Guide
+
+When installing the Roller encoder be sure to remove the plastic clips where the encoder slots into the pcb cut out and make sure it is aligned to your satisfaction with the centre of the pcb before soldering!
+
 ## Todo
 
 - [X] order & test pcb

@@ -8,13 +8,13 @@
     "layouts":{
         "labels":[
                 [
-                    "Index Encoder",
+                    "Index Encoder Position",
                     "Rotary Encoder",
                     "Switch",
                     "None"
                 ],
                 [
-                    "Thumb Encoder",
+                    "Thumb Encoder Position",
                     "Roller Encoder",
                     "Switch",
                     "None"
